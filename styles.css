@@ -1,0 +1,48 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+
+.card{
+  position: absolute;
+  align-items: center;
+  background-color: white;
+  padding: 70px;
+  padding-bottom: 32%;
+  margin: 110px 550px 250px 550px;
+  width: 15%;
+  border-radius: 5%;
+}
+
+.img{
+  width: 90%;
+  position: absolute;
+  align-items: center;
+  right: 18px;
+  top: 17px;
+  border-radius: 5%;
+}
+
+.p{
+  position: absolute;
+  text-align: center;
+  right: 3px;
+  top: 400px;
+  padding: 1%;
+  font-size: 17px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400, 700;
+  color: grey;
+  padding-top: 0%;
+  padding: 35px;
+}
+
+.h{
+  position: absolute;
+  text-align: center;
+  top: 320px;
+  right: 3px;
+  padding: 40px;
+  font-size: 25px;
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400, 700;
+}
